@@ -1,0 +1,24 @@
+{
+  "name": "backend-api-w1",
+  "version": "1.0.0",
+  "description": "- ชื่อ-นามสกุล: <เอื้ออังกูร แก้วรัตนประเสริฐ>\r - รหัสนักศึกษา: <69319010010>\r - วิชา: 31901-2005 การพัฒนาซอฟต์แวร์ด้วยเทคโนโลยี Back-End (หน่วยที่ 1 สัปดาห์ที่ 1)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aueaangkun/aueaangkun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aueaangkun/aueaangkun/issues"
+  },
+  "homepage": "https://github.com/aueaangkun/aueaangkun#readme"
+}
